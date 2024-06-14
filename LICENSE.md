@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2021 John Emerson
+Copyright (c) 2024 Jasstej Singh Marwaha
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
